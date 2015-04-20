@@ -20,3 +20,8 @@ seemed like a good project to learn with. Network latency might be a problem, bu
 # Example video
 
 [Here is an example video of it actually working!](https://www.youtube.com/watch?v=uSHMhtIR2wg)
+
+
+
+#Note!
+Place all node moudules inside node_moudle folder.
