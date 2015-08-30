@@ -1,0 +1,39 @@
+<!DOCTYPE html> 
+<html>
+<head> 
+  <title>Lifestream App</title> 
+  <meta name="viewport" content="user-scalable=no,initial-scale=1.0,maximum-scale=1.0" />
+
+  <link rel="stylesheet" href="jquery.mobile.css" />
+  <link rel="stylesheet" href="lifestream.css" />
+
+  <script src="phonegap-1.4.0.js"></script>
+  <script src="jquery.js"></script>
+  <script src="jquery.mobile.js"></script>
+  <script src="lifestream.js"></script>
+</head> 
+<body> 
+<div id="main" data-role="page">
+
+  <div data-role="header" data-position="fixed">
+    <div data-role="navbar">
+      <ul>
+        <li><a id="nav_lifestream"><img id="logo" src="lifestream.png">&nbsp;</a></li>
+        <li><a id="nav_post">Post</a></li>
+      </ul>
+    </div
+  </div>
+
+  <div id="con_lifestream" data-role="content">	
+    <p>photo stream</p>
+  </div>
+
+   <div id="con_post" data-role="content">
+	<h1>Hello people !</h1>
+    <input type="TEXT" id="user" size="40"><br>
+    <input type="password" id="password" size="40"><br>
+    <input type="button" id="submit" value="Submit">
+   </div>
+</div>
+</body>
+</html>
