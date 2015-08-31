@@ -1,27 +1,27 @@
 
 exports.mongohq   = { 
-  username: 'ali',     
-  password: '123Password',
-  name:     'ali',
-  host:     'candidate.45.mongolayer.com',
-  port:     10660
+  username: '',     
+  password: '',
+  name:     '',
+  host:     '',
+  port:     
 }
 
 exports.amazon   = { 
-  s3bucket: 'aali-mobile-cloud-apps',
-  keyid:    'AKIAJAMTY6B2SVLT7VRQ',     
-  secret:   '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' 
+  s3bucket: '',
+  keyid:    '',     
+  secret:   '' 
 }
 
 exports.twitter  = { 
-  keyid:  '5Ce9pkIMCu6BifnrGylDg',  
-  secret: 'Qdevmv4yWFBkxpwdF3c2EdTbgz1yJrK8R7T1WhXlhs' 
+  keyid:  '',  
+  secret: '' 
 }
 
 
 exports.facebook = { 
-  keyid:  '277250309030914', 
-  secret: 'e1bfe395ceb37415f30abbcdfa44acae' 
+  keyid:  '', 
+  secret: '' 
 }
 
 exports.server = '192.168.1.100'
