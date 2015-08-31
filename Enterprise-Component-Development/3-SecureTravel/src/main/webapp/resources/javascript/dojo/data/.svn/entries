@@ -1,0 +1,58 @@
+8
+
+dir
+614
+https://src.springframework.org/svn/spring-samples/travel/src/main/webapp/resources/javascript/dojo/data
+https://src.springframework.org/svn/spring-samples
+
+
+
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f89eb93f-fe00-432c-9d5f-7b86db922d13
+
+ItemFileWriteStore.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+9c3f2a8f71d1ea65719f46e1c1d9c61b
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+ItemFileReadStore.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+3542f815005d9a17cbac10a4bb479183
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+api
+dir
+
+util
+dir
+

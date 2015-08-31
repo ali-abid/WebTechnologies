@@ -1,0 +1,79 @@
+8
+
+dir
+614
+https://src.springframework.org/svn/spring-samples/travel/src/main/resources/META-INF
+https://src.springframework.org/svn/spring-samples
+
+
+
+2010-08-02T14:57:21.262643Z
+573
+rstoyanchev
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f89eb93f-fe00-432c-9d5f-7b86db922d13
+
+spring.handlers
+file
+
+
+
+
+2011-12-23T19:56:41.000000Z
+c297b61176673bd2a2ebbca9ba3bc373
+2010-05-03T21:35:58.975104Z
+457
+kdonald
+
+spring
+dir
+
+persistence.xml
+file
+
+
+
+
+2011-12-23T19:56:41.000000Z
+ca3cfa8e579616b388ea014ff9fa9bd7
+2010-05-03T21:35:58.975104Z
+457
+kdonald
+
+spring.schemas
+file
+
+
+
+
+2011-12-23T19:56:41.000000Z
+c68871741ef3bd055d43854f85a04030
+2010-05-03T21:35:58.975104Z
+457
+kdonald
+
+MANIFEST.mf
+file
+
+
+
+
+2011-12-23T19:56:41.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2010-05-03T21:35:58.975104Z
+457
+kdonald
+

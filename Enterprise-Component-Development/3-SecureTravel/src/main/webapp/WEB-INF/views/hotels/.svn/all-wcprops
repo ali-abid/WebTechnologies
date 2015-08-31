@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/WEB-INF/views/hotels
+END
+tiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/WEB-INF/views/hotels/tiles.xml
+END
+search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/WEB-INF/views/hotels/search.jsp
+END
+searchForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/WEB-INF/views/hotels/searchForm.jsp
+END
+list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/WEB-INF/views/hotels/list.jsp
+END
+show.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/WEB-INF/views/hotels/show.jsp
+END
+bookingsTable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/WEB-INF/views/hotels/bookingsTable.jsp
+END

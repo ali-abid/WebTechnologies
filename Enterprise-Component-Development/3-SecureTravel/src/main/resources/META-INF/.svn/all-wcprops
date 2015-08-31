@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/spring-samples/!svn/ver/573/travel/src/main/resources/META-INF
+END
+spring.handlers
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-samples/!svn/ver/457/travel/src/main/resources/META-INF/spring.handlers
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-samples/!svn/ver/457/travel/src/main/resources/META-INF/persistence.xml
+END
+spring.schemas
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/spring-samples/!svn/ver/457/travel/src/main/resources/META-INF/spring.schemas
+END
+MANIFEST.mf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/spring-samples/!svn/ver/457/travel/src/main/resources/META-INF/MANIFEST.mf
+END

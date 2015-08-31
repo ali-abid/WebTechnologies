@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/spring-samples/!svn/ver/606/travel
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/spring-samples/!svn/ver/457/travel/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/spring-samples/!svn/ver/457/travel/.project
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/spring-samples/!svn/ver/457/travel/.springBeans
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/spring-samples/!svn/ver/606/travel/pom.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/spring-samples/!svn/ver/470/travel/README.txt
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/cldr/nls
+END
+number.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/cldr/nls/number.js
+END
+currency.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/cldr/nls/currency.js
+END
+gregorian.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/cldr/nls/gregorian.js
+END

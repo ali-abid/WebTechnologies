@@ -1,0 +1,52 @@
+8
+
+dir
+614
+https://src.springframework.org/svn/spring-samples/travel/src/main/webapp/WEB-INF/layouts
+https://src.springframework.org/svn/spring-samples
+
+
+
+2010-05-06T11:54:30.849766Z
+470
+rstoyanchev
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f89eb93f-fe00-432c-9d5f-7b86db922d13
+
+tiles.xml
+file
+
+
+
+
+2011-12-23T19:56:42.000000Z
+a657cefc4e151bada48514b91612ffc8
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+standard.jsp
+file
+
+
+
+
+2011-12-23T19:56:42.000000Z
+fa22848407cfa5c6f2418ad42d3a4cb4
+2010-05-06T11:54:30.849766Z
+470
+rstoyanchev
+

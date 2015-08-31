@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/spring-samples/!svn/ver/573/travel/src/main/resources/META-INF/spring/travel
+END
+webflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/spring-samples/!svn/ver/468/travel/src/main/resources/META-INF/spring/travel/webflow.xml
+END
+controllers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/spring-samples/!svn/ver/468/travel/src/main/resources/META-INF/spring/travel/controllers.xml
+END
+servlet-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-samples/!svn/ver/573/travel/src/main/resources/META-INF/spring/travel/servlet-context.xml
+END

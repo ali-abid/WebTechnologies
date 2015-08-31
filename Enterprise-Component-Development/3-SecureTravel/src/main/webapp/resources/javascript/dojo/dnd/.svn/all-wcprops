@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/dnd
+END
+move.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/dnd/move.js
+END
+autoscroll.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/dnd/autoscroll.js
+END
+Mover.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/dnd/Mover.js
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/dnd/common.js
+END
+Manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/dnd/Manager.js
+END
+Moveable.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/dnd/Moveable.js
+END
+TimedMoveable.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/dnd/TimedMoveable.js
+END
+Avatar.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/dnd/Avatar.js
+END
+Selector.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/dnd/Selector.js
+END
+Source.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/dnd/Source.js
+END
+Container.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/dnd/Container.js
+END

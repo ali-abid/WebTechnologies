@@ -1,0 +1,637 @@
+8
+
+dir
+614
+https://src.springframework.org/svn/spring-samples/travel/src/main/webapp/resources/javascript/dojo/nls
+https://src.springframework.org/svn/spring-samples
+
+
+
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f89eb93f-fe00-432c-9d5f-7b86db922d13
+
+dojo_he-il.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+1d4ee35677967bfd5dea57b97f706992
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_el.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+6d795d620eaff294cfdafd3598b6840e
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+ja
+dir
+
+fi
+dir
+
+nb
+dir
+
+dojo_nl.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+10095ae66b1c4f6640ab64956c6669c7
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_th.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+b5619d853563b74ece2c26d24d127434
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_pl.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+87f6786f94a1383160d67e4e1924edbf
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_es-es.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+f4a2d77b9a24053e6828d6fb26a1a7fe
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_it.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+e5e24df2bd4014cb36058c6f96df15f3
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_sl.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+1403ba215836ad8b1e92a21fd73b1c47
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_nl-nl.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+8a95a65e43f37aed11fe0ee6f7ac9720
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_zh.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+bde92ee133d44048cf32e3030617ffa5
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+fr
+dir
+
+dojo_ROOT.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+7c822c96bcd7e4994e8d3b05cf3cc4dc
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_pt.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+21acbee2d88f0c782f76685e40989289
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+nl
+dir
+
+dojo_pt-br.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+1729322026f520e77177c6e441cd95d7
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_fi-fi.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+14bd571a60d0719dc69d2db19c10206a
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+zh
+dir
+
+ca
+dir
+
+dojo_xx.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+fddb041df9928055412634b1834e5e61
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+ru
+dir
+
+dojo_cs.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+a524bf8f2b4c1f48f41bb05f99710340
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_es.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+4acde9c794b3df98de7e0c3e0918a436
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_ko.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+28c212326a6f10c98cbf7ca01cdf7134
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_sk.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+59c714ca711bfe9338b893cff7f8f265
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+pt-pt
+dir
+
+cs
+dir
+
+zh-tw
+dir
+
+ko
+dir
+
+dojo_it-it.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+99c65fb76acdac5f84cc97a33142681a
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+sk
+dir
+
+sl
+dir
+
+da
+dir
+
+dojo_nb.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+d0e0171687bae3c6a4465133f30414b0
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_ja-jp.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+3de821929c36932366a465f340a76f6f
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_ar.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+bab58c36f42fe45688ea3c40aaba1176
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_en.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+afb69b2ab476e33662133c7d2e137649
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+sv
+dir
+
+de
+dir
+
+he
+dir
+
+dojo_fr.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+9408be09cc023a198b58e0114772d40f
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_zh-tw.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+544ff0ccd3d4c8b6090863cdcb1f2747
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_fr-fr.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+522443e0b40d5c0fba9ccffed69860fa
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_de-de.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+4b9be5b114eb51b28da1e315166e348d
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_zh-cn.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+0e45535be5b5c1c07495605f8ae286dc
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_ca.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+d3375d6dbcba209bd8f54772972939ad
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_da.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+6d2e815d02086335483e19911c7929ce
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_tr.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+3d6644ca91228ba613162b9dc2b70a2e
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+th
+dir
+
+pl
+dir
+
+hu
+dir
+
+dojo_en-us.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+1c4070d275d7b739e7db482f92e360c7
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_sv.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+a57538a5baccabba68a09706d705b3ea
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_en-gb.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+7e449196cb14efecad6626d8a456d75d
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_de.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+b7ea939f6effccad1b71fdc650b144e3
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_ja.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+4e36cf4df6506f36ac47b9eefdfd7687
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+dojo_he.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+ac9c69d81cb967c5b7f08f76a714be9b
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+pt
+dir
+
+dojo_fi.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+e311550e5714de3434fcb73d75ce5400
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+tr
+dir
+
+dojo_pt-pt.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+fd1787ee2e91346c374b1d9ad469f925
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+el
+dir
+
+ar
+dir
+
+dojo_hu.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+f67bb9c5d6dcdc3c5ae28dfc70cd0592
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+es
+dir
+
+dojo_ko-kr.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+7c3ae32f82885dc98042fcaffb8daab5
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+it
+dir
+
+dojo_ru.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+4a0d13ec6d398c37357f8545973c9b22
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+colors.js
+file
+
+
+
+
+2011-12-23T19:57:23.000000Z
+72a5bb39069a678ebc12a557284ee5f2
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+

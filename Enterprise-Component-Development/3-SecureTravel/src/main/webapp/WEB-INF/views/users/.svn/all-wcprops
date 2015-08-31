@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/spring-samples/!svn/ver/471/travel/src/main/webapp/WEB-INF/views/users
+END
+tiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-samples/!svn/ver/457/travel/src/main/webapp/WEB-INF/views/users/tiles.xml
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-samples/!svn/ver/471/travel/src/main/webapp/WEB-INF/views/users/login.jsp
+END
+logoutSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/WEB-INF/views/users/logoutSuccess.jsp
+END

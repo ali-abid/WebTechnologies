@@ -1,0 +1,58 @@
+8
+
+dir
+614
+https://src.springframework.org/svn/spring-samples/travel/src/main/webapp/WEB-INF/views
+https://src.springframework.org/svn/spring-samples
+
+
+
+2010-05-06T16:17:46.080070Z
+471
+rstoyanchev
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f89eb93f-fe00-432c-9d5f-7b86db922d13
+
+tiles.xml
+file
+
+
+
+
+2011-12-23T19:56:42.000000Z
+3428fff70e29167787996d7efecaa28c
+2010-05-03T21:35:58.975104Z
+457
+kdonald
+
+users
+dir
+
+home.jsp
+file
+
+
+
+
+2011-12-23T19:56:42.000000Z
+2a109b7a61087db17da2f196de62b926
+2010-05-06T11:16:48.732163Z
+469
+rstoyanchev
+
+hotels
+dir
+

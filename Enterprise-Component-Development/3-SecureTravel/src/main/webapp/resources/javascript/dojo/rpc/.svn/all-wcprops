@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/rpc
+END
+RpcService.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/rpc/RpcService.js
+END
+JsonService.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/rpc/JsonService.js
+END
+JsonpService.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-samples/!svn/ver/468/travel/src/main/webapp/resources/javascript/dojo/rpc/JsonpService.js
+END

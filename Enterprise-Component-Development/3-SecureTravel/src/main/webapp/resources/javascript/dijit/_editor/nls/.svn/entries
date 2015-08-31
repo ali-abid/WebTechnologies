@@ -1,0 +1,145 @@
+8
+
+dir
+614
+https://src.springframework.org/svn/spring-samples/travel/src/main/webapp/resources/javascript/dijit/_editor/nls
+https://src.springframework.org/svn/spring-samples
+
+
+
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f89eb93f-fe00-432c-9d5f-7b86db922d13
+
+zh
+dir
+
+ca
+dir
+
+pt
+dir
+
+da
+dir
+
+tr
+dir
+
+ru
+dir
+
+de
+dir
+
+sv
+dir
+
+LinkDialog.js
+file
+
+
+
+
+2011-12-23T19:57:10.000000Z
+b4d7e289378496befda9544d5033e615
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+ja
+dir
+
+he
+dir
+
+FontChoice.js
+file
+
+
+
+
+2011-12-23T19:57:10.000000Z
+3d60c2c01811108f127168e5ecca781c
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+fi
+dir
+
+nb
+dir
+
+el
+dir
+
+ar
+dir
+
+pt-pt
+dir
+
+cs
+dir
+
+fr
+dir
+
+es
+dir
+
+ko
+dir
+
+nl
+dir
+
+zh-tw
+dir
+
+pl
+dir
+
+th
+dir
+
+it
+dir
+
+hu
+dir
+
+commands.js
+file
+
+
+
+
+2011-12-23T19:57:10.000000Z
+80b6f76ab8516f2dd311ffd99b546b52
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+sk
+dir
+
+sl
+dir
+

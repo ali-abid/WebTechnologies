@@ -1,0 +1,94 @@
+8
+
+dir
+614
+https://src.springframework.org/svn/spring-samples/travel
+https://src.springframework.org/svn/spring-samples
+
+
+
+2011-01-04T02:44:26.049544Z
+606
+kdonald
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f89eb93f-fe00-432c-9d5f-7b86db922d13
+
+.classpath
+file
+
+
+
+
+2011-12-23T19:57:32.000000Z
+0604bc8a7a641a204ccb4e7da4cd26b4
+2010-05-03T21:35:58.975104Z
+457
+kdonald
+
+.project
+file
+
+
+
+
+2011-12-23T19:57:32.000000Z
+73fe80e7d9be200cbf155ce98e27df22
+2010-05-03T21:35:58.975104Z
+457
+kdonald
+
+src
+dir
+
+.springBeans
+file
+
+
+
+
+2011-12-23T19:57:32.000000Z
+47cd80fb34562cb22482e1dc24ac0818
+2010-05-03T21:35:58.975104Z
+457
+kdonald
+
+pom.xml
+file
+
+
+
+
+2011-12-23T19:57:32.000000Z
+39a4de760a62d31ab065f503c4f0d48d
+2011-01-04T02:44:26.049544Z
+606
+kdonald
+
+README.txt
+file
+
+
+
+
+2011-12-23T19:57:32.000000Z
+2c03ec916353a0856d205618a4488d79
+2010-05-06T11:54:30.849766Z
+470
+rstoyanchev
+
+.settings
+dir
+

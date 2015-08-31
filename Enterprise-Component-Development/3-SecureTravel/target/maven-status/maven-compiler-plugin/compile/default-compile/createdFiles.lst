@@ -1,0 +1,14 @@
+org\springframework\samples\travel\BookingController.class
+org\springframework\samples\travel\Authority.class
+org\springframework\samples\travel\JpaBookingService.class
+org\springframework\samples\travel\HotelsController.class
+org\springframework\samples\travel\CustomAuthenticationProvider.class
+org\springframework\samples\travel\CustomUserDetails.class
+org\springframework\samples\travel\BookingService.class
+org\springframework\samples\travel\User.class
+org\springframework\samples\travel\SearchCriteria.class
+org\springframework\samples\travel\Booking.class
+org\springframework\samples\travel\Amenity.class
+org\springframework\samples\travel\CustomUserDetailsService.class
+org\springframework\samples\travel\Hotel.class
+org\springframework\samples\travel\BookingValidator.class

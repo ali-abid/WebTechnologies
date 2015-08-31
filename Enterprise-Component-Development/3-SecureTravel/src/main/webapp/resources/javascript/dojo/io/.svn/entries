@@ -1,0 +1,52 @@
+8
+
+dir
+614
+https://src.springframework.org/svn/spring-samples/travel/src/main/webapp/resources/javascript/dojo/io
+https://src.springframework.org/svn/spring-samples
+
+
+
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f89eb93f-fe00-432c-9d5f-7b86db922d13
+
+script.js
+file
+
+
+
+
+2011-12-23T19:57:31.000000Z
+36fd6d1cffd83ff87993b3b4adb6461f
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+
+iframe.js
+file
+
+
+
+
+2011-12-23T19:57:31.000000Z
+665e7a0fe32d7a97f37d306b08680036
+2010-05-06T11:10:51.010950Z
+468
+rstoyanchev
+

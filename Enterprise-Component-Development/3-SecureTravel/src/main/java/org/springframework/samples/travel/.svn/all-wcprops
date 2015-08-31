@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-samples/!svn/ver/468/travel/src/main/java/org/springframework/samples/travel
+END
+HotelsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-samples/!svn/ver/468/travel/src/main/java/org/springframework/samples/travel/HotelsController.java
+END
+JpaBookingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-samples/!svn/ver/457/travel/src/main/java/org/springframework/samples/travel/JpaBookingService.java
+END
+Amenity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-samples/!svn/ver/457/travel/src/main/java/org/springframework/samples/travel/Amenity.java
+END
+Booking.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-samples/!svn/ver/468/travel/src/main/java/org/springframework/samples/travel/Booking.java
+END
+SearchCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-samples/!svn/ver/457/travel/src/main/java/org/springframework/samples/travel/SearchCriteria.java
+END
+BookingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-samples/!svn/ver/457/travel/src/main/java/org/springframework/samples/travel/BookingService.java
+END
+Hotel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/spring-samples/!svn/ver/468/travel/src/main/java/org/springframework/samples/travel/Hotel.java
+END
+BookingFlowHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-samples/!svn/ver/468/travel/src/main/java/org/springframework/samples/travel/BookingFlowHandler.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/spring-samples/!svn/ver/457/travel/src/main/java/org/springframework/samples/travel/User.java
+END
